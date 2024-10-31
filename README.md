@@ -1,7 +1,7 @@
 # Proyecto de Laboratorio y Pruebas de Configuración en AWS
 
 Este repositorio está diseñado como un entorno de laboratorio para pruebas de configuración y despliegues. 
-Orientado tanto a ejercicios prácticos con servicios en la nube, ejercicios de infraestructura y pruebas controladas.
+Orientado a ejercicios prácticos con servicios en la nube, ejercicios de infraestructura y pruebas controladas.
 
 ## Contenido
 
