@@ -15,10 +15,6 @@ fi
 echo "Instalando dependencias"
 apt install -y curl unzip python3 python3-pip git
 
-# Instalar Python y pip.
-echo "Instalando python3 y pip"
-apt install -y 
-
 # Instalar boto3 usando pip
 echo "Instalando boto3"
 pip3 install boto3
