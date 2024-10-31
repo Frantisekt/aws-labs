@@ -1,4 +1,4 @@
-# Script de Configuración del Entorno de Desarrollo
+# Script de Configuración del Entorno
 
 Este script automatiza la configuración del entorno de pruebas de infraestructura simple en sistemas Unix/Linux (Ubuntu).
 
