@@ -1,7 +1,7 @@
 # Proyecto de Laboratorio y Pruebas de Configuración en AWS
 
-Este repositorio está diseñado como un entorno de laboratorio para pruebas de configuración y despliegues en AWS. 
-Orientado tanto a ejercicios prácticos como a experimentación con servicios en la nube, permite realizar simulaciones de infraestructura y pruebas controladas para comprender y optimizar configuraciones en entornos reales de AWS.
+Este repositorio está diseñado como un entorno de laboratorio para pruebas de configuración y despliegues. 
+Orientado tanto a ejercicios prácticos con servicios en la nube, ejercicios de infraestructura y pruebas controladas.
 
 ## Contenido
 
@@ -13,7 +13,7 @@ Orientado tanto a ejercicios prácticos como a experimentación con servicios en
 ## Objetivo
 
 Este proyecto es ideal para fortalecer habilidades en:
-- DevOps
+- DevOps; CI/CD; IaC
 - Automatización de procesos
 - Gestión y administración de infraestructuras en la nube
 
